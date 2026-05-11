@@ -60,4 +60,4 @@ This is useful on cloud hosts where the official futures endpoint may return HTT
 
 Matching is done by the token symbol / futures base asset. Scaled futures contracts are handled too, for example `1000PEPEUSDT` can match `PEPE`.
 
-This is just a screener, not trading advice.
+This is screener that can help you with find tokens under different mc. You welcome ! 
